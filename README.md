@@ -17,9 +17,9 @@
 
 ## Test questions:
 
-1. What is Nike as a brand known for ?
+1. What is Netflix as a brand known for?
 
-2. How did Nike use athlete endorsements to strengthen its brand image?
+2. How did Netflix use original content and partnerships to strengthen its brand image?
 
 SYSTEM REQUIREMENTS:
 
